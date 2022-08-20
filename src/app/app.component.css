@@ -1,0 +1,20 @@
+  .clForm {
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 10px;
+  }
+
+  .clForm h1 {
+
+    margin-top: 10px;
+
+  }
+
+  .clSalvar,
+  .clLimpar {
+    margin: 10px 5px 0px 5px;
+
+  }
