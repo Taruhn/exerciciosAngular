@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angularProject';
+
+  titulo:string = "";
+
+  public salvar(title : string){
+    this.titulo = title;
+
+  }
+
 }
